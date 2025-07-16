@@ -120,7 +120,7 @@ export default {
 				>
 					<label style="font-size: 14px">
 					<input type="checkbox" id="autoRefreshToggle" />
-					🔄 Auto Refresh - URL: <a href="https://callkit.hiennv.com/api/logs" target="_blank">https://callkit.hiennv.com/api/logs</a>
+					🔄 Auto Refresh - URL: <a href="https://events.hiennv.com/api/logs" target="_blank">https://events.hiennv.com/api/logs</a>
 					</label>
 				</div>
 				<div id="log-list"></div>
